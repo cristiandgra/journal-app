@@ -1,3 +1,9 @@
+It's an app for save your notes or have a personal journal for your days.
+
+https://cristiandgra.github.io/journal-app/
+
+![imagen](https://i.imgur.com/PTAB5sH.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
