@@ -1,6 +1,6 @@
 {
   "name": "journal-app",
-  "homepage": "./Journal-App",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

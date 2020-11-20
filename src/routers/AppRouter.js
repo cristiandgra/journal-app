@@ -33,7 +33,7 @@ export const AppRouter = () => {
   }
 
   return (
-    <Router basename="/Journal-App">
+    <Router basename="/journal-app">
       <div>
         <Switch>
           <PublicRoute
